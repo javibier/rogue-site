@@ -1,0 +1,128 @@
+/**Head**/
+head {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+}
+
+
+
+/**Header**/
+
+header h1 {
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+    font-size: 30px;
+}
+
+header h1 span {
+    color: #77a466;
+}
+
+nav {
+    float: right;
+    padding: 15px 0;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+    font-size: 12px;
+    color: #77a466;
+    padding-left: 32px; 
+}
+
+/**Image**/
+#image {
+	border: 3px solid #77a466;
+}
+
+/***GRID***/
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 600px;
+    float: left;
+}
+
+.third-width {
+    width: 398px;
+    float: left;
+    
+}
+
+/***Intro Section***/
+
+#intro h2 {
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	color: #77a466;
+}
+
+#intro p {
+	font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+/***portfolio***/
+
+#portfolio {
+	height: 183px;
+	border-top: 1px solid #dedbdc;
+	border-bottom: 1px solid #dedbdc;
+}
+
+#portfolio h3 {
+	font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    padding: 7px 0 0 25px;
+}
+
+#portfolio p {
+	text-align: left;
+    font-size: 17px;
+    padding: 0 60px 0 25px;
+}
+
+#portfolio #specials p {
+	font-size: 15px;
+	color: #77a466;
+	line-height: 30px;
+}
+
+#portfolio #review {
+	margin-bottom: 0;
+	border-left: 1px solid #dedbdc;
+	border-right: 1px solid #dedbdc;
+}
+
+/**Footer**/
+
+footer {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	text-align: center;
+	font-weight: bolder;
+	padding: 25px;
+}
+
+footer span {
+    color: #77a466;
+    font-family: 'Pinyon Script', cursive;
+}
+
+footer #javibier {
+	float: right;
+    color: #77a466;
+    font-family: 'Gochi Hand', cursive;
+}
