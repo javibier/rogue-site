@@ -121,8 +121,9 @@ footer span {
     font-family: 'Pinyon Script', cursive;
 }
 
-footer #javibier {
+footer ul a {
 	float: right;
     color: #77a466;
     font-family: 'Gochi Hand', cursive;
+    text-decoration: none;
 }
