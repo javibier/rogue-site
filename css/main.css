@@ -42,19 +42,18 @@ nav ul li a {
 
 /***GRID***/
 .full-width {
-    width: 1200px;
     margin: 0 auto;
+    width: 1200px;
 }
 
 .half-width {
-    width: 600px;
     float: left;
+    width: 600px;
 }
 
 .third-width {
-    width: 398px;
     float: left;
-    
+    width: 398px;
 }
 
 /***Intro Section***/
