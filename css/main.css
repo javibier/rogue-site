@@ -59,10 +59,10 @@ nav ul li a {
 /***Intro Section***/
 
 #intro h2 {
-	text-transform: uppercase;
+	color: #77a466;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 17px;
-	color: #77a466;
+	text-transform: uppercase;
 }
 
 #intro p {
