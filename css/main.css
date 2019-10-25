@@ -56,22 +56,6 @@ nav ul li a {
 	border: 3px solid #77a466;
 }
 
-/***GRID***/
-.full-width {
-    margin: 0 auto;
-    width: 1200px;
-}
-
-.half-width {
-    float: left;
-    width: 600px;
-}
-
-.third-width {
-    float: left;
-    width: 398px;
-}
-
 /***Intro Section***/
 
 #intro h2 {
