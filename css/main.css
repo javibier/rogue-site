@@ -100,6 +100,9 @@ nav ul li a {
 
 #portfolio #contact ul {
   padding: 0 25% 0 25%;
+}
+
+#portfolio #contact ul a {
   text-decoration: none;
 }
 
