@@ -81,11 +81,11 @@ nav ul li a {
 
 #portfolio h3 {
 	font-family: 'Montserrat', sans-serif;
-    font-size: 11px;
-    padding: 7px 0 0 25px;
+  font-size: 11px;
+  padding: 7px 0 0 25px;
 }
 
-#portfolio p {
+#portfolio p, #contact p {
     font-size: 17px;
     padding: 0 60px 0 25px;
     text-align: left;
@@ -96,6 +96,11 @@ nav ul li a {
 	color: #77a466;
 	font-size: 15px;
 	line-height: 30px;
+}
+
+#portfolio #contact ul {
+  padding: 0 25% 0 25%;
+  text-decoration: none;
 }
 
 #portfolio #review {
