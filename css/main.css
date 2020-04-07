@@ -41,10 +41,28 @@ justify-content: space-between;
 
 header h1 {
 	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
 }
 
 header h1 span {
     color: #77a466;
+}
+
+nav {
+    float: right;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a {
+    color: #77a466;
+    font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+    font-size: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 @media screen and (min-width: 1200px) {
@@ -61,4 +79,12 @@ header h1 span {
   #col-10 {width: 83.33%;}
   #col-11 {width: 91.66%;}
   #col-12 {width: 100%;}
+}
+
+@media screen and (min-width: 768px;) {
+
+nav ul li{
+    display: block;
+}
+
 }
