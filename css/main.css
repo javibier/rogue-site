@@ -65,6 +65,11 @@ nav ul li a {
     text-transform: uppercase;
 }
 
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
 @media screen and (min-width: 1200px) {
   /* For desktop: */
   #col-1 {width: 8.33%;}
@@ -81,22 +86,3 @@ nav ul li a {
   #col-12 {width: 100%;}
 }
 
-@media screen and (min-width: 768px;) {
-
-nav li {
-  display: inline-block;
-  vertical-align: top;
-}
-
-nav a {
-  display: block;
-}
-
-nav ul {
-  height: 5em;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-}
