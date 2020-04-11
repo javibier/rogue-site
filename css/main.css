@@ -83,8 +83,10 @@ nav ul li a {
 
 @media screen and (min-width: 768px;) {
 
-nav ul li{
-    display: block;
+nav ul li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 }
