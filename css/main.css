@@ -44,8 +44,7 @@
     display: flex;
     line-height: 1.5em;
     font-size: 1.6em;
-    width: 10%;
-    height: 200px;
+    height: auto;
     }
 
 header h1 span {
@@ -57,13 +56,19 @@ header h1 {
   	font-weight: bolder;
 }
 
-nav ul li{
-    display: inline-block;
-    justify-content: flex-end;
+nav ul {
+  position: fixed;
+  width: 100%;
+}
 
+nav ul li{
+   display: inline;
+   width: 80px;
+   float: right;
 }
 
 nav ul li a {
+    display: block;
     color: #77a466;
     font-family: 'Montserrat', sans-serif;
 	  font-weight: bolder;
