@@ -83,10 +83,20 @@ nav ul li a {
 
 @media screen and (min-width: 768px;) {
 
-nav ul li a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+nav li {
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav a {
+  display: block;
+}
+
+nav ul {
+  height: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 }
