@@ -56,15 +56,20 @@ header h1 {
   	font-weight: bolder;
 }
 
+nav {
+  width: 100%;
+}
+
 nav ul {
-  position: fixed;
   width: 100%;
 }
 
 nav ul li{
-   display: inline;
-   width: 80px;
-   float: right;
+  width: 80px;
+  display: inline;
+  text-align: right;
+  float: right;
+  padding-right: 2%;
 }
 
 nav ul li a {
