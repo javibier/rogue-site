@@ -26,8 +26,6 @@
   #col-11,
   #col-12 {
     display: flex;
-    justify-content: center;
-    align-items: center;
     line-height: 1.5em;
     font-size: 1.25em;
     height: auto;
@@ -37,8 +35,6 @@
 .flex-container {
   /*set display to flex and vertically & horizontally align by setting justify-content and align-items to center, and set flex-flow to row wrap*/
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex-flow: row wrap;
     justify-content: space-between;
 }
@@ -46,25 +42,19 @@
 .flex-items {
   /*set display to flex and vertically & horizontally align by setting justify-content and align-items to center*/
     display: flex;
-    justify-content: center;
-    align-items: center;
     line-height: 1.5em;
     font-size: 1.6em;
-    width: 30%;
+    width: 10%;
     height: 200px;
     }
-
-header h1 {
-  	font-family: 'Montserrat', sans-serif;
-  	font-weight: bolder;
-}
 
 header h1 span {
     color: #77a466;
 }
 
-nav {
-    float: right;
+header h1 {
+  	font-family: 'Montserrat', sans-serif;
+  	font-weight: bolder;
 }
 
 nav ul li{
