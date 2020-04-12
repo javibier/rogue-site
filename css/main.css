@@ -127,11 +127,9 @@ nav ul li a {
   height: 183px;
   border-top: 1px solid #dedbdc;
   border-bottom: 1px solid #dedbdc;
-  flex-direction: row;
 }
 
 .flex-items3 h3 {
-  
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
   padding: 7px 0 0 25px;
