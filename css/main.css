@@ -100,6 +100,11 @@ nav ul li a {
     text-transform: uppercase;
 }
 
+/**Image**/
+#image {
+  border: 3px solid #77a466;
+}
+
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
