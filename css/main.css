@@ -120,6 +120,11 @@ nav ul li a {
   
 .flex-container {
   flex-direction: column;
-}  
+}
+
+nav ul li{
+    text-align: center;
+}
+
 }
 
