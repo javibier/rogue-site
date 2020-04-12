@@ -123,9 +123,11 @@ nav ul li a {
 /***Portfolio***/
 
 #portfolio {
+  display: flex;
   height: 183px;
   border-top: 1px solid #dedbdc;
   border-bottom: 1px solid #dedbdc;
+  flex-direction: column;
 }
 
 #portfolio h3 {
