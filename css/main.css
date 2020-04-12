@@ -105,6 +105,21 @@ nav ul li a {
   border: 3px solid #77a466;
 }
 
+/***Intro Section***/
+
+#intro h2 {
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  color: #77a466;
+}
+
+#intro p {
+  font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+}
+
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
