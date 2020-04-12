@@ -122,22 +122,21 @@ nav ul li a {
 
 /***Portfolio***/
 
-#portfolio {
+.flex-container1 {
   display: flex;
   height: 183px;
   border-top: 1px solid #dedbdc;
   border-bottom: 1px solid #dedbdc;
-  flex-direction: column;
+  flex-direction: row;
 }
 
-#portfolio h3 {
-  display: flex;
+.flex-items3 h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
   padding: 7px 0 0 25px;
 }
 
-#portfolio p {
+.flex-items3 p {
   text-align: left;
   font-size: 17px;
   padding: 0 60px 0 25px;
