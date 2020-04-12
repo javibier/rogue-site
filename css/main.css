@@ -169,20 +169,20 @@ footer ul {
   margin-top: 32px;
 }
 
-footer #jeche ul a {
+footer .jeche ul a {
   float: right;
     color: #77a466;
     font-family: 'Gochi Hand', cursive;
     text-decoration: none;
 }
 
-footer #jedev ul {
+footer .jedev ul {
   float: left;
   padding-left: 0;
   margin-top: 32px;
 }
 
-footer #jedev ul a {
+footer .jedev ul a {
   float; left;
   color: #77a466;
     font-family: 'Gochi Hand', cursive;
