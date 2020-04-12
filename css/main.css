@@ -152,6 +152,43 @@ nav ul li a {
   border-right: 1px solid #dedbdc;
 }
 
+footer {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  font-weight: bolder;
+  padding: 25px;
+}
+
+footer span {
+    color: #77a466;
+    font-family: 'Pinyon Script', cursive;
+}
+
+footer ul {
+  margin-top: 32px;
+}
+
+footer #jeche ul a {
+  float: right;
+    color: #77a466;
+    font-family: 'Gochi Hand', cursive;
+    text-decoration: none;
+}
+
+footer #jedev ul {
+  float: left;
+  padding-left: 0;
+  margin-top: 32px;
+}
+
+footer #jedev ul a {
+  float; left;
+  color: #77a466;
+    font-family: 'Gochi Hand', cursive;
+    text-decoration: none;
+}
+
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
