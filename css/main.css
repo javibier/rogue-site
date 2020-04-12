@@ -122,8 +122,16 @@ nav ul li a {
   flex-direction: column;
 }
 
-nav ul li{
-    text-align: center;
+.flex-items {
+  width: 100%;
+}
+
+header h1{
+  text-align: center;
+}
+ 
+nav {
+  align-items: center;
 }
 
 }
