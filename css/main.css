@@ -140,7 +140,7 @@ nav ul li a {
     padding: 0 60px 0 25px;
 }
 
-#portfolio #specials p {
+#portfolio .specials p {
   font-size: 15px;
   color: #77a466;
   line-height: 30px;
