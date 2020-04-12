@@ -77,11 +77,11 @@ nav ul {
 }
 
 nav ul li{
-  width: 80px;
-  display: inline;
-  text-align: right;
-  float: right;
-  padding-right: 2%;
+    width: 80px;
+    display: inline;
+    text-align: right;
+    float: right;
+    padding-right: 2%;
 }
 
 nav ul li a {
