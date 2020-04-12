@@ -131,8 +131,15 @@ nav ul li a {
   width: 100%;
 }
 
+header {
+  border-bottom: 0px #77a466;
+  border-bottom-style: solid;
+}
+
 header h1{
   text-align: center;
+  border-bottom: 3px #77a466;
+  border-bottom-style: solid;
 }
 
 nav ul {
