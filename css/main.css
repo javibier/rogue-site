@@ -129,10 +129,15 @@ nav ul li a {
 header h1{
   text-align: center;
 }
- 
-nav {
-  align-items: center;
+
+nav ul {
+  height: auto;
+  width: 30%;
+  margin: auto;
 }
 
+nav ul li {
+  text-align: center;
+}
 }
 
