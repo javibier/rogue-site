@@ -41,7 +41,7 @@ html, body, section, main {
   /*set display to flex and vertically & horizontally align by setting justify-content and align-items to center, and set flex-flow to row wrap*/
     display: flex;
     justify-content: center;
-    align-items: center;
+    
     flex-flow: row wrap;
     justify-content: space-between;
   }
@@ -129,23 +129,15 @@ nav ul li a {
 }
 
 #portfolio1 {
-  line-height: 1.5em;
-  height: auto;
-  width: 30%;
   
 }
 
 #portfolio2 {
-  line-height: 1.5em;
-  height: auto;
-  width: 30%;
   
 }
 
 #portfolio3 {
-  line-height: 1.5em;
-  height: auto;
-  width: 30%;
+ 
 
 }
 
