@@ -125,30 +125,19 @@ nav ul li a {
 #portfolio {
   border-top: 1px solid #dedbdc;
   border-bottom: 1px solid #dedbdc;
+
 }
 
 #portfolio h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
-  padding: 7px 0 0 25px;
+ 
 }
 
 #portfolio p {
   font-size: 17px;
-  padding: 0 60px 0 25px;
 }
 
-#portfolio .specials p {
-  font-size: 15px;
-  color: #77a466;
-  line-height: 30px;
-}
-
-#portfolio #review {
-  margin-bottom: 0;
-  border-left: 1px solid #dedbdc;
-  border-right: 1px solid #dedbdc;
-}
 
 footer {
   font-family: 'Montserrat', sans-serif;
