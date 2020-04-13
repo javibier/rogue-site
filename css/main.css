@@ -130,16 +130,12 @@ nav ul li a {
 }
 
 .flex-items3 h3 {
-  display: inline-block;
-  align-items: left;
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
   padding: 7px 0 0 25px;
 }
 
 .flex-items3 p {
-  display: inline-block;
-  align-items: left;
   font-size: 17px;
   padding: 0 60px 0 25px;
 }
