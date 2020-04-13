@@ -127,6 +127,7 @@ nav ul li a {
   height: 183px;
   border-top: 1px solid #dedbdc;
   border-bottom: 1px solid #dedbdc;
+  height: auto;
 }
 
 .flex-items3 h3 {
