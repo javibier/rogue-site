@@ -13,6 +13,11 @@
   padding: 15px;
 }
 
+
+html, body, section, main {
+  font-size: 16px;
+}
+
   #col-1,
   #col-2,
   #col-3,
@@ -55,8 +60,8 @@
 }
 
 header {
-  border-bottom: 3px #77a466;
-  border-bottom-style: solid;
+    border-bottom: 3px #77a466;
+    border-bottom-style: solid;
 }
 
 header h1 span {
@@ -67,7 +72,7 @@ header h1 span {
 
 header h1 {
   	font-family: 'Montserrat', sans-serif;
-    font-size: 30px;
+    font-size: 2em;
     text-transform: uppercase;
     width: 100%;
     text-align: left;
@@ -95,7 +100,7 @@ nav ul li a {
     color: #77a466;
     font-family: 'Montserrat', sans-serif;
 	  font-weight: bolder;
-    font-size: 12px;
+    font-size: .75em;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -110,14 +115,14 @@ nav ul li a {
 #intro h2 {
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
-  font-size: 17px;
+  font-size: 1.0625em;
   color: #77a466;
 }
 
 #intro p {
   font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
-    line-height: 25px;
+  font-size: 1em;
+  line-height: 25px;
 }
 
 /***Portfolio***/
@@ -129,13 +134,13 @@ nav ul li a {
 
 #portfolio h3 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 11px;
+  font-size: 1em;
  
 }
 
 #portfolio p {
   font-family: 'Montserrat', sans-serif;
-  font-size: 17px;
+  font-size: 1em;
 }
 
 
