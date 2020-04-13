@@ -125,14 +125,13 @@ nav ul li a {
   border-bottom: 1px solid #dedbdc;
 }
 
-#portfolio h3 {
+#portfolio h3, p {
   font-family: 'Montserrat', sans-serif;
   font-size: 1em;
 }
 
 #portfolio p {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 1em;
+  
 }
 
 
