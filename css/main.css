@@ -124,19 +124,22 @@ nav ul li a {
 
 .flex-container1 {
   display: flex;
-  height: 183px;
   border-top: 1px solid #dedbdc;
   border-bottom: 1px solid #dedbdc;
-  height: auto;
+  height: 100%;
 }
 
 .flex-items3 h3 {
+  display: inline-block;
+  align-items: left;
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
   padding: 7px 0 0 25px;
 }
 
 .flex-items3 p {
+  display: inline-block;
+  align-items: left;
   font-size: 17px;
   padding: 0 60px 0 25px;
 }
