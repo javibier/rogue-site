@@ -37,6 +37,23 @@ html, body, section, main {
     width: 30%;
 }
 
+.flex-container2 {
+  /*set display to flex and vertically & horizontally align by setting justify-content and align-items to center, and set flex-flow to row wrap*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+    justify-content: space-between;
+  }
+
+.flex-items2 {
+  /*set display to flex and vertically & horizontally align by setting justify-content and align-items to center*/
+    display: flex;
+    line-height: 1.5em;
+    height: auto;
+    width: 30%;
+}
+
 header {
     border-bottom: 3px #77a466;
     border-bottom-style: solid;
