@@ -80,7 +80,7 @@ nav ul {
     width: 100%;
 }
 
-nav ul li{
+nav ul li {
     width: 80px;
     display: inline;
     text-align: right;
@@ -123,15 +123,30 @@ nav ul li a {
 #portfolio {
   border-top: 1px solid #dedbdc;
   border-bottom: 1px solid #dedbdc;
-}
-
-#portfolio h3, p {
   font-family: 'Montserrat', sans-serif;
   font-size: 1em;
+  
 }
 
-#portfolio p {
+#portfolio1 {
+  line-height: 1.5em;
+  height: auto;
+  width: 30%;
   
+}
+
+#portfolio2 {
+  line-height: 1.5em;
+  height: auto;
+  width: 30%;
+  
+}
+
+#portfolio3 {
+  line-height: 1.5em;
+  height: auto;
+  width: 30%;
+
 }
 
 
