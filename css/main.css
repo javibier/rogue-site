@@ -47,8 +47,6 @@ html, body, section, main {
   }
 
 .flex-items2 {
-  /*set display to flex and vertically & horizontally align by setting justify-content and align-items to center*/
-    display: flex;
     line-height: 1.5em;
     height: auto;
     width: 30%;
@@ -130,7 +128,6 @@ nav ul li a {
 #portfolio h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 1em;
- 
 }
 
 #portfolio p {
