@@ -272,6 +272,12 @@ nav ul li {
 }
 #intro h2 {
   font-size: .74em;
+  text-align: center;
+  margin: 0 auto;
+}
+#intro p {
+  text-align: center;
+  margin: 0 auto;
 }
 
 .specials, .reviews, .contact {
