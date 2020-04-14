@@ -175,22 +175,23 @@ footer ul {
 
 footer .jeche ul a {
   float: right;
-    color: #77a466;
-    font-family: 'Gochi Hand', cursive;
-    text-decoration: none;
+  color: #77a466;
+  font-family: 'Gochi Hand', cursive;
+  text-decoration: none;
 }
 
 footer .jedev ul {
   float: left;
   padding-left: 0;
   margin-top: 32px;
+  margin-left: 10%;
 }
 
 footer .jedev ul a {
   float; left;
   color: #77a466;
-    font-family: 'Gochi Hand', cursive;
-    text-decoration: none;
+  font-family: 'Gochi Hand', cursive;
+  text-decoration: none;
 }
 
 /* For mobile phones: */
