@@ -247,7 +247,52 @@ nav ul li {
   text-align: center;
 }
 
+#intro {
+  margin: 0 auto;
 }
+
+#intro h2 {
+  font-size: .74em;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#intro p {
+  font-size: .80em;
+  text-align: center;
+  margin: 0 5% 0 5%;
+}
+
+.specials, .reviews, .contact {
+  width: 100%;
+  height: auto;
+}
+
+.specials h3, p {
+  text-align: center;
+}
+
+.reviews h3, p {
+  text-align: center;
+}
+
+.contact h3, p {
+  text-align: center;
+}
+
+footer {
+  margin-top: 2%;
+}
+
+footer .jeche ul a {
+  text-align: center;
+  width: 100%;
+}
+
+footer .jedev {
+  text-align: center;
+}
+
 
 @media screen and (max-width: 768px) {
   
@@ -324,7 +369,6 @@ footer .jeche ul a {
 
 footer .jedev {
   text-align: center;
-}
 }
 
 footer .jedev ul {
