@@ -29,7 +29,6 @@ html, body, section, main {
 
 .flex-items {
   /*set display to flex and vertically & horizontally align by setting justify-content and align-items to center*/
-    display: flex;
     justify-content: center;
     align-items: center;
     line-height: 1.5em;
@@ -110,6 +109,7 @@ nav ul li a {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.0625em;
   color: #77a466;
+  justify-content: center;
 }
 
 #intro p {
