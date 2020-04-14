@@ -300,5 +300,23 @@ nav ul li {
   text-align: center;
 }
 
+footer {
+  margin-top: 2%;
+}
+
+footer .jeche ul a {
+  text-align: center;
+  width: 100%;
+}
+
+footer .jedev {
+  text-align: center;
+}
+}
+
+footer .jedev ul {
+  margin: 0 auto;
+}
+
 }
 
