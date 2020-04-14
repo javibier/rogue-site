@@ -109,13 +109,14 @@ nav ul li a {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.0625em;
   color: #77a466;
-  justify-content: center;
+  margin-left: 2.5%
 }
 
 #intro p {
   font-family: 'Montserrat', sans-serif;
   font-size: 1em;
   line-height: 25px;
+  margin-left: 2.5%;
 }
 
 /***Portfolio***/
@@ -139,7 +140,7 @@ nav ul li a {
   color: #77a466;
 }
 
-.portfolio2 h3 {
+.portfolio2 h3, p {
   margin-left: 10%;
   margin-right: 10%;
   height: auto;
