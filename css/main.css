@@ -246,19 +246,20 @@ nav ul li {
   text-align: center;
 }
 
-.specials h3, p {
-  margin: 16 0 16 28;
-  width: auto;
+.specials, .reviews, .contact {
+  width: 100%;
 }
 
+.specials h3, p {
+  text-align: center;
+}
 
 .reviews h3, p {
-  margin-left: 10%
-  width: auto;
+  text-align: center;
 }
 
 .contact h3, p {
-  margin-left: 15%;
+  text-align: center;
   height: auto;
 }
 
