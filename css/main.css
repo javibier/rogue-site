@@ -239,7 +239,7 @@ header h1{
 
 nav ul {
   height: auto;
-  width: 10%;
+  width: 5%;
   margin: auto;
 }
 
@@ -292,7 +292,7 @@ footer .jeche ul a {
 footer .jedev {
   text-align: center;
 }
-
+}
 
 @media screen and (max-width: 768px) {
   
@@ -317,7 +317,7 @@ header h1{
 
 nav ul {
   height: auto;
-  width: 30%;
+  width: 20%;
   margin: auto;
 }
 
