@@ -129,19 +129,21 @@ nav ul li a {
 }
 
 .portfolio1 h3, p {
-  
+  margin-left: 10%;
+  margin-right: 10%; 
   height: auto;
 }
 
 .portfolio2 h3 {
-  
+  margin-left: 10%;
+  margin-right: 10%;
   height: auto;
 }
 
 .portfolio3 h3, p {
-  
+  margin-left: 10%;
+  margin-right: 10%;
   height: auto;
-
 }
 
 
