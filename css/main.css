@@ -270,14 +270,17 @@ nav ul li {
 #intro {
   margin: 0 auto;
 }
+
 #intro h2 {
   font-size: .74em;
   text-align: center;
   margin: 0 auto;
 }
+
 #intro p {
+  font-size: .80em;
   text-align: center;
-  margin: 0 auto;
+  margin: 0 5% 0 5%;
 }
 
 .specials, .reviews, .contact {
