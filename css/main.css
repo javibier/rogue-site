@@ -132,6 +132,11 @@ nav ul li a {
   margin-left: 10%;
   margin-right: 10%; 
   height: auto;
+  line-height: 25px;
+}
+
+.portfolio1 p {
+  color: #77a466;
 }
 
 .portfolio2 h3 {
